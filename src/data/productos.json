@@ -1,0 +1,198 @@
+[
+	{
+		"id": 1,
+		"title": "Zapatillas Adidas Stan Smith",
+		"description": "Zapatillas marca adidas, modelo Stan Smith, color verde",
+		"price": 23000,
+		"thumbnail": [
+			"img1",
+			"img2",
+			"img3"
+		],
+		"code": "def123",
+		"stock": 8,
+		"status": true,
+		"category": "Hombre"
+	},
+	{
+		"id": 2,
+		"title": "Zapatillas Adidas ADIZERO",
+		"description": "Zapatillas marca adidas, modelo ADIZERO, color negro",
+		"price": 28900,
+		"thumbnail": [
+			"img1",
+			"img2",
+			"img3"
+		],
+		"code": "def456",
+		"stock": 13,
+		"status": true,
+		"category": "Hombre"
+	},
+	{
+		"id": 3,
+		"title": "Zapatillas Adidas Superstar",
+		"description": "Zapatillas marca Adidas, modelo Superstar, color blanco",
+		"price": 39600,
+		"thumbnail": [
+			"img1",
+			"img2",
+			"img3"
+		],
+		"code": "abc456",
+		"stock": 6,
+		"status": true,
+		"category": "Hombre"
+	},
+	{
+		"id": 4,
+		"title": "Zapatillas Nike Air Max",
+		"description": "Zapatillas marca Nike, modelo Air Max, color azul",
+		"price": 24300,
+		"thumbnail": [
+			"img1",
+			"img2",
+			"img3"
+		],
+		"code": "abc123",
+		"stock": 15,
+		"status": true,
+		"category": "Hombre"
+	},
+	{
+		"id": 5,
+		"title": "Zapatillas Nike Vapormax",
+		"description": "Zapatillas marca Nike, modelo Vapormax color negro",
+		"price": 19900,
+		"thumbnail": [
+			"img1",
+			"img2",
+			"img3"
+		],
+		"code": "abc789",
+		"stock": 9,
+		"status": true,
+		"category": "Hombre"
+	},
+	{
+		"id": 6,
+		"title": "Zapatillas Nike React infinity",
+		"description": "Zapatillas marca Nike, modelo React infinity, color veige",
+		"price": 25750,
+		"thumbnail": [
+			"img1",
+			"img2",
+			"img3"
+		],
+		"code": "ghi123",
+		"stock": 11,
+		"status": true,
+		"category": "Hombre"
+	},
+	{
+		"id": 7,
+		"title": "Zapatillas Nike ZoomX",
+		"description": "Zapatillas marca Nike, modelo ZoomX, color rosa",
+		"price": 88900,
+		"thumbnail": [
+			"img1",
+			"img2",
+			"img3"
+		],
+		"code": "ghi456",
+		"stock": 12,
+		"status": true,
+		"category": "Hombre"
+	},
+	{
+		"id": 8,
+		"title": "Zapatillas Puma TRC Blaze",
+		"description": "Zapatillas marca Puma, modelo TRC Blaze, color celeste",
+		"price": 33500,
+		"thumbnail": [
+			"img1",
+			"img2",
+			"img3"
+		],
+		"code": "ghi789",
+		"stock": 10,
+		"status": true,
+		"category": "Hombre"
+	},
+	{
+		"id": 9,
+		"title": "Zapatillas Puma Cruise Rider",
+		"description": "Zapatillas marca Puma, modelo Cruise Rider, color rosa",
+		"price": 34500,
+		"thumbnail": [
+			"img1",
+			"img2",
+			"img3"
+		],
+		"code": "jkl123",
+		"stock": 5,
+		"status": true,
+		"category": "Hombre"
+	},
+	{
+		"id": 10,
+		"title": "Zapatillas Puma Suede Classic",
+		"description": "Zapatillas marca Puma, modelo Suede classic, color rojo",
+		"price": 20000,
+		"thumbnail": [
+			"img1",
+			"img2",
+			"img3"
+		],
+		"code": "def789",
+		"stock": 25,
+		"status": true,
+		"category": "Hombre"
+	},
+	{
+		"id": 11,
+		"title": "Zapatillas Adidas Stan Smith",
+		"description": "Zapatillas marca adidas, modelo Stan Smith, color verde",
+		"price": 23000,
+		"thumbnail": [
+			"img1",
+			"img2",
+			"img3"
+		],
+		"code": "j1j0",
+		"stock": 8,
+		"status": true,
+		"category": "Hombre"
+	},
+	{
+		"id": 12,
+		"title": "Zapatillas Adidas Stan Smith",
+		"description": "Zapatillas marca adidas, modelo Stan Smith, color verde",
+		"price": 29000,
+		"thumbnail": [
+			"img1",
+			"img2",
+			"img3"
+		],
+		"code": "j1j4",
+		"stock": 8,
+		"status": true,
+		"category": "Hombre"
+	},
+	{
+		"id": 13,
+		"title": "Zapatillas Adidas Stan Smith",
+		"description": "Zapatillas marca adidas, modelo Stan Smith, color verde",
+		"price": 29000,
+		"thumbnail": [
+			"img1",
+			"img2",
+			"img3"
+		],
+		"code": "j1j5",
+		"stock": 8,
+		"status": true,
+		"category": "Hombre"
+	}
+
+]

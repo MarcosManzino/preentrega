@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "primer-desafio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "type":"module",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
