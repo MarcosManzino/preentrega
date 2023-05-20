@@ -1,0 +1,54 @@
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-6">
+      <div id="formContainer">
+        <h2>Cargar un producto</h2>
+        <div class="mb-3">
+          <label for="title" class="form-label">Titulo:</label>
+          <input type="text" id="title" class="form-control" />
+        </div>
+        <div class="mb-3">
+          <label for="description" class="form-label">Description:</label>
+          <input type="text" id="description" class="form-control" />
+        </div>
+        <div class="mb-3">
+          <label for="price" class="form-label">Precio:</label>
+          <input type="text" id="price" class="form-control" />
+        </div>
+        <div class="mb-3">
+          <label for="thumbnail" class="form-label">Imagen:</label>
+          <input type="text" id="thumbnail" class="form-control" />
+        </div>
+        <div class="mb-3">
+          <label for="code" class="form-label">Codigo:</label>
+          <input type="text" id="code" class="form-control" />
+        </div>
+        <div class="mb-3">
+          <label for="stock" class="form-label">Stock:</label>
+          <input type="text" id="stock" class="form-control" />
+        </div>
+        <button id="btnCrear" class="btn btn-primary">Crear</button>
+      </div>
+    </div>
+    <div class="col-6">
+      <div>
+        <h2>Eliminar producto</h2>
+        <div class="mb-3">
+          <label for="id" class="form-label">Id:</label>
+          <input type="text" id="id" class="form-control">
+        </div>
+        <button id="btnDelete" class="btn btn-danger">Eliminar</button>
+      </div>
+      <div id="productsContainer">
+
+
+      </div>
+
+
+    </div>
+  </div>
+</div>
+<h2>Listado de productos</h2>
+<div id="historyProducts"></div>
+<script src="/socket.io/socket.io.js"></script>
+<script src="/js/socketClient.js"></script>
